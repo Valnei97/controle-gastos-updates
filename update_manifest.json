@@ -1,0 +1,9 @@
+
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apkUrl": "https://EXEMPLO.com/app-release.apk",
+  "sha256": "COLOQUE_O_HASH_SHA256_AQUI",
+  "mandatory": false,
+  "releaseNotes": "Melhorias e correções do aplicativo."
+}

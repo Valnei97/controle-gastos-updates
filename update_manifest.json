@@ -1,9 +1,9 @@
 
 {
-  "versionCode": 11,
-  "versionName": "1.1.1",
-  "apkUrl": "https://github.com/Valnei97/controle-gastos-updates/releases/download/v1.1.1/app-release.apk",
-  "sha256": "14942DD9AC3C9B11318A3257B42F89C1C18821E0FC51401237EDB49BA8FB706F",
+  "versionCode": 12,
+  "versionName": "1.1.2",
+  "apkUrl": "https://github.com/Valnei97/controle-gastos-updates/releases/download/v1.1.2/app-release.apk",
+  "sha256": "D893379A91D443AEFDE47A26431B1AF9567552CCFBFD6CF869170DC68261644C",
   "mandatory": false,
   "releaseNotes": "Correções no sistema de atualização automática."
 }
